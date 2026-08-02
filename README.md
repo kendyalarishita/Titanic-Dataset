@@ -19,15 +19,15 @@ highlight main trends in passenger survival rates.
 
 ### 🛠️ Technology Stack
 
-Language: Python
+ Language: Python
 
-Environment: Jupyter Notebook
+ Environment: Jupyter Notebook
 
-Data Manipulation: Pandas
+ Data Manipulation: Pandas
 
-Data Visualization: Matplotlib, Seaborn
+ Data Visualization: Matplotlib, Seaborn
 
-Version Control & Hosting: GitHub
+ Version Control & Hosting: GitHub
 
 ### 📂 Project Structure
 Bash
@@ -40,25 +40,25 @@ Bash
 
 ### ⚙️ How It Works
 
-#### Step 1: Data Ingestion: 
+ #### Step 1: Data Ingestion: 
 
-Loads the raw dataset into a Pandas DataFrame.
+ Loads the raw dataset into a Pandas DataFrame.
 
-#### Step 2: Quality Assessment: 
+ #### Step 2: Quality Assessment: 
 
-Evaluates data shapes, column types, missing value percentages, and duplicates.
+ Evaluates data shapes, column types, missing value percentages, and duplicates.
 
-#### Step 3: Preprocessing: 
+ #### Step 3: Preprocessing: 
 
-Imputes missing values, converts data types, and caps/removes outliers.
+ Imputes missing values, converts data types, and caps/removes outliers.
 
-#### Step 4: Feature Transformation:
+ #### Step 4: Feature Transformation:
 
-Extracts social titles from names and aggregates family sizes.
+ Extracts social titles from names and aggregates family sizes.
 
-#### Step 5: Aggregation & Plotting: 
+ #### Step 5: Aggregation & Plotting: 
 
-Groups variables to evaluate survival dynamics and displays statistical plots.
+ Groups variables to evaluate survival dynamics and displays statistical plots.
 
 ### 🟢 Advantages
 
@@ -96,13 +96,13 @@ Groups variables to evaluate survival dynamics and displays statistical plots.
 
 ### 🎯 Applications
 
-*Educational Benchmark for Data Science
+* Educational Benchmark for Data Science
  
-*Historical Evacuation & Demographic Studies
+* Historical Evacuation & Demographic Studies
  
-*Risk Assessment & Safety Analysis Frameworks
+* Risk Assessment & Safety Analysis Frameworks
  
-*Predictive Modeling for Binary Classification Tasks
+* Predictive Modeling for Binary Classification Tasks
 
 ### 🔗 Repository
 
