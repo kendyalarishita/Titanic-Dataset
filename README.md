@@ -108,4 +108,7 @@ highlight main trends in passenger survival rates.
 https://github.com/kendyalarishita/Titanic-Dataset/blob/main/Titanic-Dataset.ipynb
 
 ### 🚀 Run the Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://https://github.com/kendyalarishita/Titanic-Dataset/blob/main/Titanic-Dataset.ipynbE/https://github.com/kendyalarishita/Titanic-Dataset/blob/main/Titanic-Dataset.ipynb/blob/main/Titanic-Dataset.ipynb)
+### 🚀 Run the Code
+
+Click here to view and run the code:  
+👉 [Run Jupyter Notebook](Titanic-Dataset.ipynb)
