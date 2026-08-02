@@ -39,6 +39,7 @@ Bash
 └── README.md                 # Project documentation
 
 ⚙️ How It Works
+
 Step 1: Data Ingestion: 
 
 Loads the raw dataset into a Pandas DataFrame.
