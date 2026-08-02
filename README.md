@@ -6,7 +6,9 @@ This project demonstrates the complete workflow of loading raw passenger data, i
 The main objective of this project is to clean, transform, and analyze the Titanic     passenger manifest to uncover key insights and demographic patterns related to survival.
 
 ✨ Key Features
+
 ->Data Cleaning & Missing Value Imputation
+
 ->Outlier Identification & Treatment
 ->Exploratory Data Analysis (EDA)
 ->Feature Engineering & Transformation
