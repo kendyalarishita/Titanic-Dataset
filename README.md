@@ -32,7 +32,7 @@ highlight main trends in passenger survival rates.
 ### 📂 Project Structure
 Bash
 
-**├── Titanic-Dataset.csv       # Raw Titanic passenger dataset
+* **├── Titanic-Dataset.csv       # Raw Titanic passenger dataset
 
 **├── Titanic-Dataset.ipynb    # Main Jupyter Notebook containing code & visual outputs
 
