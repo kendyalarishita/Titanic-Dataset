@@ -106,4 +106,3 @@ highlight main trends in passenger survival rates.
 ### 🔗 Repository
 
 https://github.com/kendyalarishita/Titanic-Dataset/blob/main/Titanic-Dataset.ipynb
-
