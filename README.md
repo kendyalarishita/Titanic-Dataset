@@ -19,15 +19,15 @@ highlight main trends in passenger survival rates.
 
 ### 🛠️ Technology Stack
 
-  Language: Python
+  * Language: Python
 
-  Environment: Jupyter Notebook
+  * Environment: Jupyter Notebook
 
-  Data Manipulation: Pandas
+  * Data Manipulation: Pandas
 
-  Data Visualization: Matplotlib, Seaborn
+  * Data Visualization: Matplotlib, Seaborn
 
-  Version Control & Hosting: GitHub
+  * Version Control & Hosting: GitHub
 
 ### 📂 Project Structure
 Bash
