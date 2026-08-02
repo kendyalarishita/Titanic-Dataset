@@ -29,22 +29,17 @@ highlight main trends in passenger survival rates.
 
   * Version Control & Hosting: GitHub
 
-###📚 Required Libraries
-
-```bash
-pandas
-numpy
-matplotlib
-seaborn
+### 📚 Required Libraries
+* pandas
+* matplotlib
+* seaborn
 
 ### 📂 Project Structure
 
-```bash
 .
 ├── Titanic-Dataset.csv        # Raw Titanic passenger dataset
 ├── Titanic-Dataset.ipynb      # Main Jupyter Notebook containing code & visual outputs
 └── README.md                  # Project documentation
-```
 
 ### ⚙️ How It Works
 
