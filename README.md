@@ -1,11 +1,11 @@
 # Titanic-Dataset
-An exploratory data analysis (EDA) and data cleaning project on the classic Titanic Dataset using Python, pandas, seaborn, and matplotlib.
-This project demonstrates the complete workflow of loading raw passenger data, identifying missing values and outliers, performing data transformations, and analyzing demographic factors that influenced passenger survival rates.
+An exploratory data analysis and data cleaning project on the classic Titanic dataset using Python. This project processes raw passenger data,
 
-📌 Project Overview
-The main objective of this project is to clean, transform, and analyze the Titanic passenger manifest to uncover key insights and demographic patterns related to survival.
+addresses missing values, and performs necessary feature transformations. It explores key demographic factors using Seaborn and Matplotlib to
 
-✨ Key Features
+highlight main trends in passenger survival rates.
+
+# ✨ Key Features
 
 ->Data Cleaning & Missing Value Imputation
 
@@ -17,7 +17,7 @@ The main objective of this project is to clean, transform, and analyze the Titan
 
 ->Data Visualization & Correlation Analysis
 
-🛠️ Technology Stack
+# 🛠️ Technology Stack
 
 Language: Python
 
@@ -27,9 +27,9 @@ Data Manipulation: Pandas
 
 Data Visualization: Matplotlib, Seaborn
 
-Version Control: GitHub
+Version Control & Hosting: GitHub
 
-📂 Project Structure
+# 📂 Project Structure
 Bash
 
 ├── Titanic-Dataset.csv       # Raw Titanic passenger dataset
@@ -38,29 +38,29 @@ Bash
 
 └── README.md                 # Project documentation
 
-⚙️ How It Works
+# ⚙️ How It Works
 
-Step 1: Data Ingestion: 
+# Step 1: Data Ingestion: 
 
 Loads the raw dataset into a Pandas DataFrame.
 
-Step 2: Quality Assessment: 
+# Step 2: Quality Assessment: 
 
 Evaluates data shapes, column types, missing value percentages, and duplicates.
 
-Step 3: Preprocessing: 
+# Step 3: Preprocessing: 
 
 Imputes missing values, converts data types, and caps/removes outliers.
 
-Step 4: Feature Transformation:
+# Step 4: Feature Transformation:
 
 Extracts social titles from names and aggregates family sizes.
 
-Step 5: Aggregation & Plotting: 
+# Step 5: Aggregation & Plotting: 
 
 Groups variables to evaluate survival dynamics and displays statistical plots.
 
-🟢 Advantages
+# 🟢 Advantages
 
  High Interpretability & Insights
  
@@ -72,7 +72,7 @@ Groups variables to evaluate survival dynamics and displays statistical plots.
  
  Beginner-Friendly & Modular Design
 
-⚠️ Limitations
+# ⚠️ Limitations
 
  Small Sample Dataset Size
  
@@ -82,7 +82,7 @@ Groups variables to evaluate survival dynamics and displays statistical plots.
  
  Historical Bias & Class Imbalance
 
-🚀 Future Scope
+# 🚀 Future Scope
 
  Machine Learning Model Integration
  
@@ -94,7 +94,7 @@ Groups variables to evaluate survival dynamics and displays statistical plots.
  
  Deep Learning & Neural Network Experiments
 
-🎯 Applications
+# 🎯 Applications
 
  Educational Benchmark for Data Science
  
@@ -104,6 +104,6 @@ Groups variables to evaluate survival dynamics and displays statistical plots.
  
  Predictive Modeling for Binary Classification Tasks
 
-🔗 Repository
+# 🔗 Repository
 
 https://github.com/kendyalarishita/Titanic-Dataset/blob/main/Titanic-Dataset.ipynb
