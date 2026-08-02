@@ -30,13 +30,10 @@ highlight main trends in passenger survival rates.
   * Version Control & Hosting: GitHub
 
 ### 📂 Project Structure
-Bash
-
-* **├── Titanic-Dataset.csv       # Raw Titanic passenger dataset
-
-**├── Titanic-Dataset.ipynb    # Main Jupyter Notebook containing code & visual outputs
-
-**└── README.md                 # Project documentation
+.
+├── Titanic-Dataset.csv        # Raw Titanic passenger dataset
+├── Titanic-Dataset.ipynb      # Main Jupyter Notebook containing code & visual outputs
+└── README.md                  # Project documentation
 
 ### ⚙️ How It Works
 
