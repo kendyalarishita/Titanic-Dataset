@@ -31,6 +31,7 @@ Version Control: GitHub
 
 📂 Project Structure
 Bash
+
 ├── Titanic-Dataset.csv       # Raw Titanic passenger dataset
 
 ├── Titanic-Dataset.ipynb    # Main Jupyter Notebook containing code & visual outputs
