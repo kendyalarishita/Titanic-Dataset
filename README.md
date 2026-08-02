@@ -9,13 +9,13 @@ highlight main trends in passenger survival rates.
 
 * Data Cleaning & Missing Value Imputation
 
-*Outlier Identification & Treatment
+* Outlier Identification & Treatment
 
-*Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
 
-*Feature Engineering & Transformation
+* Feature Engineering & Transformation
 
-*Data Visualization & Correlation Analysis
+* Data Visualization & Correlation Analysis
 
 ### 🛠️ Technology Stack
 
@@ -62,37 +62,37 @@ Groups variables to evaluate survival dynamics and displays statistical plots.
 
 ### 🟢 Advantages
 
-*High Interpretability & Insights
+* High Interpretability & Insights
  
-*Clean & Structured Workflow
+* Clean & Structured Workflow
  
-*Effective Feature Engineering
+* Effective Feature Engineering
  
-*Robust Data Cleaning & Imputation
+* Robust Data Cleaning & Imputation
  
-*Beginner-Friendly & Modular Design
+* Beginner-Friendly & Modular Design
 
 ### ⚠️ Limitations
 
-*Small Sample Dataset Size
+* Small Sample Dataset Size
  
-*High Missingness in Critical Columns (e.g., Cabin)
+* High Missingness in Critical Columns (e.g., Cabin)
  
-*Absence of Real-Time Data
+* Absence of Real-Time Data
  
-*Historical Bias & Class Imbalance
+* Historical Bias & Class Imbalance
 
 ### 🚀 Future Scope
 
-*Machine Learning Model Integration
+* Machine Learning Model Integration
  
-*Hyperparameter Tuning & Ensemble Methods
+* Hyperparameter Tuning & Ensemble Methods
  
-*Interactive Web App Development (e.g., Streamlit / Dash)
+* Interactive Web App Development (e.g., Streamlit / Dash)
  
-*Automated Machine Learning (AutoML) Implementation
+* Automated Machine Learning (AutoML) Implementation
  
-*Deep Learning & Neural Network Experiments
+* Deep Learning & Neural Network Experiments
 
 ### 🎯 Applications
 
