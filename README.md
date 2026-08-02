@@ -29,6 +29,14 @@ highlight main trends in passenger survival rates.
 
   * Version Control & Hosting: GitHub
 
+###📚 Required Libraries
+
+```bash
+pandas
+numpy
+matplotlib
+seaborn
+
 ### 📂 Project Structure
 
 ```bash
