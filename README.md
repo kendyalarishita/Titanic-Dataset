@@ -104,4 +104,4 @@ Groups variables to evaluate survival dynamics and displays statistical plots.
 
 🔗 Repository
 
-Titanic-Dataset.ipynb
+https://github.com/kendyalarishita/Titanic-Dataset/blob/main/Titanic-Dataset.ipynb
