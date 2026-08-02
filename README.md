@@ -40,25 +40,20 @@ Bash
 
 ### ⚙️ How It Works
 
-  #### Step 1: Data Ingestion: 
+* **Step 1: Data Ingestion**
+  * Loads the raw dataset into a Pandas DataFrame.
 
-  Loads the raw dataset into a Pandas DataFrame.
+* **Step 2: Quality Assessment**
+  * Evaluates data shapes, column types, missing value percentages, and duplicates.
 
-  #### Step 2: Quality Assessment: 
+* **Step 3: Preprocessing**
+  * Imputes missing values, converts data types, and caps/removes outliers.
 
-  Evaluates data shapes, column types, missing value percentages, and duplicates.
+* **Step 4: Feature Transformation**
+  * Extracts social titles from names and aggregates family sizes.
 
-  #### Step 3: Preprocessing: 
-
-  Imputes missing values, converts data types, and caps/removes outliers.
-
-  #### Step 4: Feature Transformation:
-
-  Extracts social titles from names and aggregates family sizes.
-
-  #### Step 5: Aggregation & Plotting: 
-
-  Groups variables to evaluate survival dynamics and displays statistical plots.
+* **Step 5: Aggregation & Plotting**
+  * Groups variables to evaluate survival dynamics and displays statistical plots.
 
 ### 🟢 Advantages
 
