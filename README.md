@@ -36,9 +36,10 @@ highlight main trends in passenger survival rates.
 
 ### 📂 Project Structure
 
-.
 ├── Titanic-Dataset.csv        # Raw Titanic passenger dataset
+
 ├── Titanic-Dataset.ipynb      # Main Jupyter Notebook containing code & visual outputs
+
 └── README.md                  # Project documentation
 
 ### ⚙️ How It Works
