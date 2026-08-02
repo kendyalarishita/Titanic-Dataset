@@ -107,8 +107,3 @@ highlight main trends in passenger survival rates.
 
 https://github.com/kendyalarishita/Titanic-Dataset/blob/main/Titanic-Dataset.ipynb
 
-### 🚀 Run the Notebook
-### 🚀 Run the Code
-
-Click here to view and run the code:  
-👉 [Run Jupyter Notebook](Titanic-Dataset.ipynb)
