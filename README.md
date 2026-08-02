@@ -7,7 +7,7 @@ highlight main trends in passenger survival rates.
 
 ### ✨ Key Features
 
-*Data Cleaning & Missing Value Imputation
+* Data Cleaning & Missing Value Imputation
 
 *Outlier Identification & Treatment
 
