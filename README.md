@@ -1,8 +1,6 @@
 # Titanic-Dataset
 An exploratory data analysis and data cleaning project on the classic Titanic dataset using Python. This project processes raw passenger data,
-
 addresses missing values, and performs necessary feature transformations. It explores key demographic factors using Seaborn and Matplotlib to
-
 highlight main trends in passenger survival rates.
 
 ### ✨ Key Features
