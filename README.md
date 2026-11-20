@@ -100,7 +100,3 @@ highlight main trends in passenger survival rates.
 * Risk Assessment & Safety Analysis Frameworks
  
 * Predictive Modeling for Binary Classification Tasks
-
-### 🔗 Repository
-
-https://github.com/kendyalarishita/Titanic-Dataset/blob/main/Titanic-Dataset.ipynb
