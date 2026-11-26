@@ -3,15 +3,25 @@ An exploratory data analysis (EDA) and data cleaning project on the classic Tita
 
 ### ✨ Key Features
 
-* Data Cleaning & Missing Value Imputation
+* Data Loading and Exploration
 
-* Outlier Identification & Treatment
+* Missing Value Detection and Handling
 
+* Duplicate Record Identification
+
+* Outlier Identification and Treatmentn
+
+* Data Type Conversion
+  
 * Exploratory Data Analysis (EDA)
 
-* Feature Engineering & Transformation
+* GroupBy Analysis
 
-* Data Visualization & Correlation Analysis
+* Statistical Analysis
+
+* Data Visualization
+
+* Key Findings and Insights
 
 ### 🛠️ Technology Stack
 
@@ -40,61 +50,77 @@ An exploratory data analysis (EDA) and data cleaning project on the classic Tita
 
 ### ⚙️ How It Works
 
- **Step 1: Data Ingestion**
-  * Loads the raw dataset into a Pandas DataFrame.
+ **Step 1: Data Loading**
+  * Loaded the Titanic dataset using Pandas DataFrame.
 
- **Step 2: Quality Assessment**
-  * Evaluates data shapes, column types, missing value percentages, and duplicates.
+ **Step 2: Data Exploration**
+  * Examined dataset shape, column names, data types, and sample records.
 
- **Step 3: Preprocessing**
-  * Imputes missing values, converts data types, and caps/removes outliers.
+ **Step 3: Data Cleaning**
+  * Checked duplicate records, handled missing values using median and mode imputation,       and dropped the Cabin column.
 
- **Step 4: Feature Transformation**
-  * Extracts social titles from names and aggregates family sizes.
+ **Step 4: Outlier Identification and Treatment**
+  * Identified numerical outliers using the Interquartile Range (IQR) method and replaced     them with median values in a separate numerical DataFrame.
 
- **Step 5: Aggregation & Plotting**
-  * Groups variables to evaluate survival dynamics and displays statistical plots.
+ **Step 5: Data Type Conversion**
+  * Converted the Age column into an integer data type.
+
+ **Step 6: Data Analysis**
+  * Performed GroupBy analysis to explore passenger age, ticket fares, gender                 distribution, embarkation ports, and family-related information.
+
+  **Step 7: Data Visualization**
+  * Created a Titanic dashboard using Matplotlib to visualize passenger age, ticket           fares, gender distribution, embarkation ports, and family-related analysis.
+
+  **Step 7: Key Findings and Insights**
+  * Identified patterns in passenger survival, ticket fares, gender distribution,
+    embarkation ports, and family-related information.
 
 ### 🟢 Advantages
 
-* High Interpretability & Insights
+* Simple and structured data analysis workflow.
  
-* Clean & Structured Workflow
+* Practical understanding of data cleaning techniques.
  
-* Effective Feature Engineering
+* Helps identify patterns in passenger information.
  
-* Robust Data Cleaning & Imputation
+* Provides visual insights through charts and graphs.
  
-* Beginner-Friendly & Modular Design
+* Beginner-friendly Python data analysis project.
 
 ### ⚠️ Limitations
 
-* Small Sample Dataset Size
+* Uses a historical dataset with a limited number of passenger records.
  
-* High Missingness in Critical Columns (e.g., Cabin)
+* Contains missing information in certain columns.
  
-* Absence of Real-Time Data
+* The Cabin column is dropped due to missing values.
  
-* Historical Bias & Class Imbalance
+* No machine learning prediction model is implemented.
+
+* Analysis is limited to the available dataset.
 
 ### 🚀 Future Scope
 
 * Machine Learning Model Integration
  
-* Hyperparameter Tuning & Ensemble Methods
- 
-* Interactive Web App Development (e.g., Streamlit / Dash)
- 
-* Automated Machine Learning (AutoML) Implementation
- 
-* Deep Learning & Neural Network Experiments
-
+* Perform additional feature engineering.
+  
+* Explore correlations between numerical variables.
+  
+* Develop interactive dashboards using Streamlit or Dash.
+  
+* Apply classification algorithms for predictive analysis.
+  
+* Experiment with hyperparameter tuning and ensemble learning.
+  
 ### 🎯 Applications
 
-* Educational Benchmark for Data Science
+* Learning Python-based data analysis.
+   
+* Understanding data cleaning and preprocessing.
+
+* Practicing statistical analysis and data visualization.
  
-* Historical Evacuation & Demographic Studies
- 
-* Risk Assessment & Safety Analysis Frameworks
- 
-* Predictive Modeling for Binary Classification Tasks
+* Exploring passenger demographics and survival patterns.
+
+* Building a foundation for machine learning projects.
